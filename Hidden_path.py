@@ -1,6 +1,6 @@
 import requests
 
-target_url = "travelpointbus.com"
+target_url = "website_name"
 
 
 def request(url):
